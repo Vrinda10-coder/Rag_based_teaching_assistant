@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+response.txt 
+
+chunks_embeddings.joblib
+
+# Raw & intermediate RAG data
+videos/
+audios/
+transcripts/
+jsons/
+
+
